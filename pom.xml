@@ -49,6 +49,7 @@
 									<mainClass>hello.HelloWorld</mainClass>
 								</transformer>
 							</transformers>
+							<finalName>gs-maven</finalName>
 						</configuration>
 					</execution>
 				</executions>
